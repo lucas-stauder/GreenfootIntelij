@@ -1,0 +1,68 @@
+# Class definitions
+class.superclass=
+class.de.stauders.lucas.Apple.image=apple1.png
+class.de.stauders.lucas.Apple.superclass=greenfoot.Actor
+class.de.stauders.lucas.Ball.image=ball.png
+class.de.stauders.lucas.Ball.superclass=greenfoot.Actor
+class.de.stauders.lucas.Banana.image=bananas.png
+class.de.stauders.lucas.Banana.superclass=greenfoot.Actor
+class.de.stauders.lucas.Bus.image=bus_01.png
+class.de.stauders.lucas.Bus.superclass=greenfoot.Actor
+class.de.stauders.lucas.Carrot.image=karotte.png
+class.de.stauders.lucas.Carrot.superclass=greenfoot.Actor
+class.de.stauders.lucas.Dummy.superclass=
+class.de.stauders.lucas.InventoryDisplayAdapter.superclass=greenfoot.Actor
+class.de.stauders.lucas.Level1.superclass=RabbitWorld
+class.de.stauders.lucas.Level2.superclass=RabbitWorld
+class.de.stauders.lucas.Level3.superclass=RabbitWorld
+class.de.stauders.lucas.PickAxe.image=PickAxe40.png
+class.de.stauders.lucas.PickAxe.superclass=greenfoot.Actor
+class.de.stauders.lucas.PickableObject.superclass=greenfoot.Actor
+class.de.stauders.lucas.PlayerHase.superclass=Hase
+class.de.stauders.lucas.PlayerRabbit.superclass=Rabbit
+class.de.stauders.lucas.Rabbit.image=hase.png
+class.de.stauders.lucas.Rabbit.superclass=greenfoot.Actor
+class.de.stauders.lucas.RabbitLevel1.superclass=RabbitWorld
+class.de.stauders.lucas.RabbitWorld.superclass=greenfoot.World
+class.de.stauders.lucas.Rock.image=rock.gif
+class.de.stauders.lucas.Rock.superclass=greenfoot.Actor
+class.de.stauders.lucas.Star.image=Stern2.png
+class.de.stauders.lucas.Star.superclass=greenfoot.Actor
+class.de.stauders.lucas.Tree.image=tree2.png
+class.de.stauders.lucas.Tree.superclass=greenfoot.Actor
+class.de.stauders.lucas.World.superclass=
+# Editor Settings
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+
+# Main Window Settings
+mainWindow.height=800
+mainWindow.width=850
+mainWindow.x=40
+mainWindow.y=40
+
+# Misc Project Settings
+package.numDependencies=0
+package.numTargets=1
+project.charset=UTF-8
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+
+# Target definitions (unknown use)
+target1.height=50
+target1.name=de.stauders.lucas.Rabbitworld
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=80
+target1.x=0
+target1.y=0
+
+# Misc/Unknown
+version=3.0.0
+world.lastInstantiated=de.stauders.lucas.Rabbitworld
