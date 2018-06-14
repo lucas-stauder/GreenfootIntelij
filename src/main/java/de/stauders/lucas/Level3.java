@@ -17,7 +17,7 @@ public class Level3 extends RabbitWorld
     public Level3()
     {
         PlayerRabbit rabbit = new PlayerRabbit();
-        addObject(rabbit, 4, 4);
+        addObject(rabbit, 4, 4); 
 
         prepare();
     }
